@@ -1,0 +1,19 @@
+
+*********** Images and fonts are property of the respective authors ***********
+
+********************************************************************************
+This is a C rewrite based on El Samuko's (elsamuko@gmail.com - 2009) FLTK BOIDS.
+https://sites.google.com/site/elsamuko/c-cpp/boids
+
+The program has been ported to S.Ha.R.K Realtime kernel (http://shark.sssup.it/)
+Authors: Alessandro Rosetti and Daniele Lazzarini.
+Every fish status was updated by a dedicated process.
+(that's why there is a lot of mutex code :P).
+
+The S.Ha.R.K port has been _re_ported_ to Linux using SDL by:
+Alessandro Rosetti.
+
+The code could be in "Dragon's Ahead" mode because of some S.Ha.R.K kernel's
+limitations.
+
+********************************************************************************
